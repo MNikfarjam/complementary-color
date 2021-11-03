@@ -1,0 +1,14 @@
+table {width: 500px;
+height: 500px;
+margin:auto;}
+.blue {background-color: blue;}
+.blue:hover { background-color: orange;}
+
+.yellow {background-color: yellow;}
+.yellow:hover { background-color: purple;}
+
+.red {background-color: red;}
+.red:hover { background-color: green;}
+
+.black {background-color: black;}
+.black:hover { background-color: white;}
